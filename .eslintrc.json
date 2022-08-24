@@ -37,6 +37,10 @@
     "prettier/prettier": "error",
     "import/extensions": 0,
     "import/no-unresolved": 0,
+    "no-shadow": "off",
+    "react/jsx-props-no-spreading": "off",
+    "import/no-named-default": "off",
+    "no-console": "off",
     "import-helpers/order-imports": [
       "warn",
       {
