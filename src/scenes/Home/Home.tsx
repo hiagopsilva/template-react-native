@@ -1,13 +1,12 @@
 import React from 'react';
-import {Text, View} from 'react-native';
 
-// import {Wrapper} from './styles';
+import {Title, Wrapper} from './styles';
 
 const Home: React.FC = () => {
   return (
-    <View>
-      <Text>SCENE HOME</Text>
-    </View>
+    <Wrapper>
+      <Title>SCENE HOME</Title>
+    </Wrapper>
   );
 };
 

@@ -1,6 +1,6 @@
 import React, {FC} from 'react';
+
 import Home from './Home';
-// import { Wrapper } from './styles';
 
 type Props = {};
 

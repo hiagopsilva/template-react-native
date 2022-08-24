@@ -6,11 +6,7 @@ import {Home} from '~/scenes';
 type Props = {};
 
 const App: FC<Props> = () => {
-  return (
-    <View>
-      <Home />
-    </View>
-  );
+  return <Home />;
 };
 
 export default App;
