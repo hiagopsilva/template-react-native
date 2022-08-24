@@ -1,5 +1,6 @@
 import React, {FC} from 'react';
 import {View} from 'react-native';
+
 import {Home} from '~/scenes';
 
 type Props = {};
